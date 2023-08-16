@@ -14,4 +14,5 @@ return array(
     'core\\Request' => $baseDir . '/core/Request.php',
     'core\\Router' => $baseDir . '/core/Router.php',
     'core\\database\\Connection' => $baseDir . '/core/database/Connection.php',
+    'core\\database\\QueryBuilder' => $baseDir . '/core/QueryBuilder.php',
 );

@@ -1,0 +1,15 @@
+{
+    "name": "yasmeen/mvc",
+    "autoload": {
+       "classmap": [
+            "./"
+       ]
+    },
+    "authors": [
+        {
+            "name": "Yasmeen Abdellatif",
+            "email": "112444332+Yasmin3bdellatif@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

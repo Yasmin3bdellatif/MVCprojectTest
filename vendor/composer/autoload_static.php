@@ -11,6 +11,7 @@ class ComposerStaticIniteda7d5cc3f6231081c5096aa99347157
         'Composer\\Autoload\\ClassLoader' => __DIR__ . '/..' . '/composer/ClassLoader.php',
         'Composer\\Autoload\\ComposerStaticIniteda7d5cc3f6231081c5096aa99347157' => __DIR__ . '/..' . '/composer/autoload_static.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'app\\controllers\\ArticleController' => __DIR__ . '/../..' . '/app/controllers/ArticleController.php',
         'app\\controllers\\PageController' => __DIR__ . '/../..' . '/app/controllers/PageController.php',
         'core\\App' => __DIR__ . '/../..' . '/core/App.php',
         'core\\Request' => __DIR__ . '/../..' . '/core/Request.php',

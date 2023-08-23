@@ -57,6 +57,7 @@ class ArticleController {
 
     public function delete() {
         $articles = App::get('database') -> delete('articles', $_GET['id'] );
+        header('Location:/articles');
 
     }
 }
